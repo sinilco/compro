@@ -16,9 +16,9 @@ class HomeController extends Controller
         return view('home.about');
     }
 
-    public function contact()
+    public function contacts()
     {
-        return view('home.contact');
+        return view('home.contacts');
     }
 
     public function services()
@@ -31,9 +31,9 @@ class HomeController extends Controller
         return view('home.projects');
     }
     
-    public function blog()
+    public function products()
     {
-        return view('home.blog');
+        return view('home.products');
     }
 
     //

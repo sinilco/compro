@@ -7,10 +7,10 @@ use Illuminate\Support\Facades\Route;
 //Home
 Route::get('/', [HomeController::class, 'index']);
 Route::get('/about', [HomeController::class, 'about']);
-Route::get('/contact', [HomeController::class, 'contact']);
+Route::get('/contacts', [HomeController::class, 'contacts']);
 Route::get('/services', [HomeController::class, 'services']);
 Route::get('/projects', [HomeController::class, 'projects']);
-Route::get('/blog', [HomeController::class, 'blog']);
+Route::get('/products', [HomeController::class, 'products']);
 // Route::get('/', [HomeController::class, 'index']);
 
 //Auth
