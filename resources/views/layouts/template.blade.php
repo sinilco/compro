@@ -68,59 +68,38 @@
   <!-- ======= Footer ======= -->
     <footer id="footer" class="footer">
 
-      <div class="footer-content position-relative">
+      <div class="footer-legal text-center position-relative">
+        
         <div class="container">
-          <div class="row">
-
-            <div class="col-lg-4 col-md-6">
-              <div class="footer-info">
-                <h3>Hpmetals Indonesia</h3>
-                <p>
-                Ngoro Industri Persada Blok K-2,  <br>
-                Ngoro - Mojokerto, <br>
-                Jawa Timur, Indonesia<br>
-                  <strong>Phone:</strong> +62321-6819277<br>
-                  <strong>Phone:</strong> +62321-6819278<br>
-                  <strong>Email:</strong> info@hpmindonesia.co.id<br>
-                </p>
-                <div class="social-links d-flex mt-3">
-                  <a href="https://www.tiktok.com/@hpmindonesia" class="d-flex align-items-center justify-content-center"><i class="bi bi-tiktok"></i></a>
-                  <a href="https://www.facebook.com/people/HP-Metals-Indonesia/150081674501517/" class="d-flex align-items-center justify-content-center"><i class="bi bi-facebook"></i></a>
-                  <a href="https://www.instagram.com/hpmindonesia/?utm_medium=copy_link&hl=id" class="d-flex align-items-center justify-content-center"><i class="bi bi-instagram"></i></a>
-                  <!-- <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-linkedin"></i></a> -->
+          <div class="footer-content text-center position-relative">
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-4 col-md-6">
+                  <div class="footer-info">
+                    <div class="social-links d-flex mt-3">
+                      <a href="https://www.tiktok.com/@hpmindonesia" class="d-flex align-items-center justify-content-center"><i class="bi bi-tiktok"></i></a>
+                      <a href="https://www.facebook.com/people/HP-Metals-Indonesia/150081674501517/" class="d-flex align-items-center justify-content-center"><i class="bi bi-facebook"></i></a>
+                      <a href="https://www.instagram.com/hpmindonesia/?utm_medium=copy_link&hl=id" class="d-flex align-items-center justify-content-center"><i class="bi bi-instagram"></i></a>
+                      <!-- <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-linkedin"></i></a> -->
+                    </div>
+                  </div>
                 </div>
+                <!-- End footer info column-->
               </div>
-            </div><!-- End footer info column-->
-
-            <div class="col-lg-2 col-md-3 footer-links">
-              <h4>Useful Links</h4>
-              <ul>
-                <li><a href="{{url('/')}}">Home</a></li>
-                <li><a href="{{url('/about')}}">About us</a></li>
-                <li><a href="{{url('/services')}}">Services</a></li>
-                <li><a href="{{url('/projects')}}">Projects</a></li>
-                <li><a href="{{url('/contact')}}">contact</a></li>
-
-                <!-- <li><a href="#">Privacy policy</a></li> -->
-              </ul>
-            </div><!-- End footer links column-->
-
-            <div class="col-lg-2 col-md-3 footer-links">
-              <h4>Our Services</h4>
-              <ul>
-                <li><a href="#">Raw Materials</a></li>
-                <li><a href="#">Moulding</a></li>
-                <li><a href="#">Extrusion</a></li>
-                <li><a href="#">Anodizing</a></li>
-                <li><a href="#">Powder Coating</a></li>
-                <li><a href="#">Fabrication</a></li>
-
-                <!-- <li><a href="#">Graphic Design</a></li> -->
-              </ul>
             </div>
+          </div>
+    
+          <div class="copyright">
+            &copy; Copyright <strong><span>Hanjaya Perkasa Metals Indonesia</span></strong>. All Rights Reserved
+          </div>
+          <div class="credits">
+            Designed by <a href="{{url('/')}}">Hpmindonesia</a>
           </div>
         </div>
       </div>
+      
+      
+      
 
 
 

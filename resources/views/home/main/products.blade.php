@@ -132,16 +132,22 @@
 
             </div>
         <!-- End Projects Container -->
-
+        <section class="sample-page">
+            <div class="container">
+              <div class="section-header text-center">
+                  <h2>Catalog</h2>
+              </div>
+            </div>
+      
             <div class="row">
                 <div class="ml-auto text-center">
-                    <br><br>
-                    <a href="https://hpmindonesia.co.id/download-product-catalog"><img style="border:1px solid black" src="https://hpmindonesia.co.id/assets/images/pdf/product_catalog.png" alt=""></a>
+                    <a href="https://hpmindonesia.co.id/download-product-catalog"><img style="border:1px solid black" src="https://hpmindonesia.co.id/assets/images/pdf/product_catalog.png" alt="" data-aos="zoom-in" data-aos-delay="700"></a>
                 </div>
             </div>
         </div>
 
     </div>
+      </section>
   </section>
     </section>
 
